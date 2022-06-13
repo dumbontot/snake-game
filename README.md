@@ -1,2 +1,2 @@
 # Snake Game
-older version of slither.io
+Older version of slither.io
