@@ -1,1 +1,2 @@
-# snake-game
+# Snake Game
+# Harder snake game
