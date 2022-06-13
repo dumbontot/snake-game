@@ -1,2 +1,2 @@
 # Snake Game
-# Harder snake game
+older version of slither.io
